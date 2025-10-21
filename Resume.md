@@ -54,7 +54,7 @@ Seattle, WA | July 2021 \- June 2022
 * Led multiple teams to build acquisition integrations including analytics pipeline, OIDC auth service, and loan application flow. Delivered 3 weeks ahead of schedule for acquisition close date.  
 * Partnered with product managers to clarify requirements, drive decisions, and identify iterative release opportunities.
 
-### NextStep | Senior Software Engineer
+### NextStep | Software Engineering Lead
 
 Seattle, WA | March 2020 \- July 2021
 

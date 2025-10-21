@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*~
+
+# PDF output files (can be regenerated)
+*.pdf
+
+# Temporary CSS files created during PDF generation
+.resume-style.css
+
