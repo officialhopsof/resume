@@ -21,7 +21,8 @@ Engineering Management, Product Strategy, Systems Architecture, A/B Testing, Per
 
 ## Work Experience
 
-### Indeed | Engineering Manager
+### Indeed
+**Role:** Engineering Manager
 
 Seattle, WA | June 2022 \- Present
 
@@ -33,7 +34,7 @@ Seattle, WA | June 2022 \- Present
 * Led 8-week critical incident affecting 24M users, coordinating cross-functional team with executive communication, achieving zero data loss, mitigating €20M+ fine exposure, and improving future response time 80%.  
 * Served as engineering POC for staffing and strategy across 5 concurrent high-visibility initiatives, consistently delivering on-time or ahead of schedule.  
 * Drove shift from waterfall to iterative delivery, establishing continuous delivery practices that delivered value up to 4 months earlier than other teams.  
-* Strategically deferred legacy messaging service migration, saving 4 months of engineering work by identifying architectural dependencies, enabling decommissioning of 2 services in <1 week.  
+* Strategically deferred legacy messaging service migration, saving 4 months of engineering work by identifying architectural dependencies, enabling decommissioning of 2 services in under 1 week.  
 * Led product discovery and MVP definition for 3-quarter messaging modernization initiative, reducing scope to core capabilities and establishing iterative delivery approach that successfully migrated 2/3 of legacy traffic while increasing response rates from 16% to 21.5%.
 * Led effort to add OpenAI LLM to messaging products, partnering with ML infra teams to define risk acceptance and technical direction, generating 1.5M+ additional messaging connections.   
 * Defined technical and product direction to unify pre and post apply conversations, creating a streamlined experience for jobseekers and employers serving 20M+ monthly active messaging users.   
@@ -45,7 +46,8 @@ Seattle, WA | June 2022 \- Present
 * Developed messaging attachment strategy enabling MVP rollout within 1 week while iterating on long-term plan.
 * Led team through multiple reorgs while maintaining productivity.
 
-### Redfin | Engineering Manager
+### Redfin
+**Role:** Engineering Manager
 
 Seattle, WA | July 2021 \- June 2022
 
@@ -57,7 +59,8 @@ Seattle, WA | July 2021 \- June 2022
 * Led multiple teams to build acquisition integrations including analytics pipeline, OIDC auth service, and loan application flow. Delivered 3 weeks ahead of schedule for acquisition close date.  
 * Partnered with product managers to clarify requirements, drive decisions, and identify iterative release opportunities.
 
-### NextStep | Software Engineering Lead
+### NextStep
+**Role:** Software Engineering Lead
 
 Seattle, WA | March 2020 \- July 2021
 
@@ -67,9 +70,10 @@ Seattle, WA | March 2020 \- July 2021
 * Built business-critical consumer products with focus on MVP delivery. Led product/issue triage, drove engineering practices, and consistently delivered 15+ initiatives on schedule. (Ruby, Rails, Javascript, React, Postgres, AWS)  
 * Implemented APIs and data models for content management, course progression, and authentication systems. (Ruby, Rails)  
 * Advocated for small batch sizes and MTTR minimization to reduce lead times and change failure rates.  
-* Achieved 65% CI Pipeline speed increase: 11.5 min → <4 min
+* Achieved 65% CI Pipeline speed increase: 11.5 min → under 4 min
 
-### RealSelf  | Senior Software Engineer
+### RealSelf
+**Role:** Senior Software Engineer
 
 Seattle, WA | October 2017 \- March 2020
 
@@ -82,7 +86,8 @@ Seattle, WA | October 2017 \- March 2020
 * Led deep investigations of customer and ops-impacting defects resulting in patches, improved logging, documentation, and knowledge sharing. (DevOps, Php, Ruby, Docker, Javascript, AWS)  
 * Reduced front-end web errors by 90% and improved error identification/recovery time. (Javascript)
 
-### Torch Technologies | Senior Software Engineer
+### Torch Technologies
+**Role:** Senior Software Engineer
 
 Huntsville, AL | March 2017 \- October 2017
 
@@ -90,7 +95,8 @@ Huntsville, AL | March 2017 \- October 2017
 * Developed high-speed image filters reducing analysis time per camera: 8 hours → 2 hours. (OpenCL)  
 * Built scientific software for warhead characterization using high-speed imagery and mathematical models to produce trajectory data. (Java)
 
-### SAIC | Software Engineer
+### SAIC
+**Role:** Software Engineer
 
 Huntsville, AL | January 2016 \- March 2017
 
@@ -98,7 +104,8 @@ Huntsville, AL | January 2016 \- March 2017
 * Built military tactical radio front-end, led A/B testing to define compliant interface reducing warfighter cognitive load on COEV3. (Java, JavaFX)  
 * Research, development, and implementation of situational awareness algorithms for JBCP. (Java)
 
-### Boeing | Software Engineer
+### Boeing
+**Role:** Software Engineer
 
 Huntsville, AL | May 2011 \- January 2016
 
@@ -112,7 +119,8 @@ Huntsville, AL | May 2011 \- January 2016
 * Invention Award: IRIG Chapter 10 Data Dissector (Python)  
 * Invention Award: Data Exchange Message Data Dissector (Python)
 
-### Miltec Inc. | Software Engineering Intern
+### Miltec Inc.
+**Role:** Software Engineering Intern
 
 Huntsville, AL | October 2008 \- August 2010
 
