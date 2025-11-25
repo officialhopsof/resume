@@ -15,7 +15,9 @@ Engineering Management, Product Strategy, Systems Architecture, A/B Testing, Per
 **Languages:** Java, TypeScript/JavaScript, Ruby, Python, Kotlin, PHP, C/C++  
 **Frameworks:** React, Rails, Spring Boot, Node.js  
 **Infrastructure:** AWS, Docker, CI/CD, SOA/Microservices, Heroku  
-**Specialties:** LLM Integration, Distributed Systems, Email/Messaging Infrastructure, GraphQL, REST
+**Integration:** GraphQL, REST, Kafka, Event-Driven Architecture  
+**AI/ML Tools:** LLM Integration, AI Coding Assistants (Cursor, GitHub Copilot), Prompt Engineering, MCP Servers  
+**Proficiencies:** Distributed Systems, High-Scale Systems (20M+ DAU), Legal & Regulatory Compliance, Data Privacy 
 
 ## Work Experience
 
