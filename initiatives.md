@@ -219,9 +219,6 @@ Complete list of initiatives from June 2022 - Present
 - **Migrating Employer Messaging Services to AWS**
   - Migrated messaging infrastructure from on-premise to AWS
   - Improved scalability and reliability of messaging platform
-- **Messaging FBEs (Frontend Backend Extensions)**
-  - Implemented frontend backend for employment pattern for messaging
-  - Enabled richer client-side experiences with server-side coordination
 - **Multi-recipient Fixes**
   - Fixed bugs in multi-recipient messaging scenarios
   - Improved group messaging reliability
