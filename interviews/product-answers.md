@@ -22,7 +22,7 @@
 - **Situation**: Leadership wanted to push GEODES timeline forward
 - **Action**: Pushed back to fix database schema technical debt first (moved jsId/aggJobId to first-class attributes)
 - **Result**: Delayed milestone by weeks but enabled better long-term performance and querying; built reusable migration infrastructure that paid dividends for subsequent upgrades
-- **Relationship**: Maintained strong PM partnership by explaining long-term benefits
+- **Relationship**: Maintained strong PM partnership by explaining long-term benefits. Selected Jr engineer to do work with Sr guidance, gave them mentorship opportunity but let them stay on the critial path.
 
 **Example 2: Deferring Navi Service Migration**
 - **Situation**: Pressure to migrate Navi service immediately
@@ -77,7 +77,8 @@
 - **Communication**: Explained architectural dependencies to leadership, showed waiting would save 4 months work
 - **Outcome**: Approved to wait, ultimately saved massive engineering effort
 
-**Example 2: EVNT-5796 Impact on Roadmap**
+**Example 2: EVNT-5796 Impact on Roadmap** 
+- **Context**: Stopped sending attachments and didn't have a monitor for that case
 - **Constraint**: 8-week critical incident affecting 24M users required full team focus
 - **Communication**: Regular executive updates to VP/CTO level explaining impact, legal exposure (€20M+ fine), zero data loss achieved
 - **Outcome**: Roadmap adjusted, but trust maintained through transparent communication
@@ -113,7 +114,7 @@
 - **Customer Research**: Guided team to conduct user testing for Glassdoor workflow
 - **Involvement**: Required close collaboration with Glassdoor, Indeed Apply, JSBE teams
 - **Documentation**: Documented "how-to" test Glassdoor workflow for team learning
-- **Impact**: Eliminated long-standing legal risks, improved privacy for users
+- **Impact**: Eliminated long-standing legal risks, improved privacy for users, became the owners for this integration point where there were none prior.
 
 **Example 2: Indeed Plus Locale Support**
 - **Customer Pain**: 11% of messages had missing/wrong locale affecting 20M+ users

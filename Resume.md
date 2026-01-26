@@ -4,7 +4,7 @@
 
 256-558-0683 | bmurphy0683@gmail.com | https://linkedin.com/in/brandon-murphy-engineer/
 
-Engineering Manager delivering measurable impact: scaled org 3.5x, accelerated delivery by 4 months, achieved 4x performance gains, and led LLM integration through iterative development practices.
+Engineering Manager delivering measurable impact: scaled org 3.5x, achieved 4x performance gains, and led LLM integration through iterative development practices.
 
 ## Leadership Skills
 
@@ -44,7 +44,6 @@ Seattle, WA | June 2022 \- Present
 * Streamlined organizational communication through weekly demos, eliminating redundant meetings and enabling faster information sharing across 7 teams.  
 * Built cross org partnerships for plan to re-envision messaging at Indeed using a new unified SOA and Federated pattern.  
 * Developed messaging attachment strategy enabling MVP rollout within 1 week while iterating on long-term plan.
-* Led team through multiple reorgs while maintaining productivity.
 
 ### Redfin
 **Role:** Engineering Manager
@@ -55,7 +54,6 @@ Seattle, WA | July 2021 \- June 2022
 * Drove velocity improvements resulting in 300% increase in team daily deployments, completing multi-year project through iterative development, weekly customer demos, and strategic scope management.  
 * Successfully managed performance improvement plans for multiple engineers through clear expectations and targeted development.  
 * Drove strategic investments in AWS/Serverless architecture with focus on individual ownership of application lifecycle.   
-* Led team through multiple reorgs while maintaining productivity.
 * Led multiple teams to build acquisition integrations including analytics pipeline, OIDC auth service, and loan application flow. Delivered 3 weeks ahead of schedule for acquisition close date.  
 * Partnered with product managers to clarify requirements, drive decisions, and identify iterative release opportunities.
 
