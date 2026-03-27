@@ -19,6 +19,10 @@ Engineering Management, Product Strategy, Systems Architecture, A/B Testing, Per
 **AI/ML Tools:** LLM Integration, AI Coding Assistants (Cursor, GitHub Copilot), Prompt Engineering, MCP Servers  
 **Proficiencies:** Distributed Systems, High-Scale Systems (20M+ DAU), Legal & Regulatory Compliance, Data Privacy 
 
+## Education
+
+Bachelor's of Computer Science
+
 ## Work Experience
 
 ### Indeed
@@ -26,11 +30,10 @@ Engineering Management, Product Strategy, Systems Architecture, A/B Testing, Per
 
 Seattle, WA | June 2022 \- Present
 
-* Aided in scaling messaging org from 2 to 7 teams through charter definitions, onboarding coordination, and mentoring managers.  
-* Led teams of up to 12 engineers and coordinated work for an additional 6 engineers.  
+* Lead team of up to 12 direct reporting engineers + 6 collaborating engineers.
 * Interviewed and hired 7 FTEs and 3 contractors, drove hiring process improvements that increased org-wide candidate success rate by ~4x.  
 * Multiplied team output 3-4x through strategic cross-team resource coordination, successfully staffing and delivering messaging platform integration, email modernization, and critical infrastructure mandates across 6+ teams.  
-* Managed reporting including metrics, demos, and Q&As to VP and CTO level.  
+* Managed reporting including metrics, demos, and Q&As up to VP level.
 * Led 8-week critical incident affecting 24M users, coordinating cross-functional team with executive communication, achieving zero data loss, mitigating €20M+ fine exposure, and improving future response time 80%.  
 * Served as engineering POC for staffing and strategy across 5 concurrent high-visibility initiatives, consistently delivering on-time or ahead of schedule.  
 * Drove shift from waterfall to iterative delivery, establishing continuous delivery practices that delivered value up to 4 months earlier than other teams.  
@@ -123,10 +126,6 @@ Huntsville, AL | May 2011 \- January 2016
 Huntsville, AL | October 2008 \- August 2010
 
 * Developed 3D visualization for MSIC simulation applications. (C++, OpenGL)
-
-## Education
-
-Bachelor's of Computer Science
 
 ## Patents
 

@@ -48,35 +48,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: Arial, Helvetica, sans-serif;
 }
-/* Prevent page breaks right after section headers */
-h2, h3 {
-    page-break-after: avoid;
-    break-after: avoid;
-}
-/* Try to keep job sections together */
-h3 {
-    page-break-before: auto;
-    break-before: auto;
-}
-/* Avoid orphans and widows */
-p, li {
-    orphans: 3;
-    widows: 3;
-}
 ul {
     list-style-type: disc;
     margin-left: 1.5em;
     padding-left: 0;
-    page-break-inside: avoid;
-    break-inside: avoid-page;
 }
 li {
     margin-bottom: 0.3em;
-}
-/* Try to avoid breaking bold subsection headers */
-strong {
-    page-break-after: avoid;
-    break-after: avoid;
 }
 EOF
 
